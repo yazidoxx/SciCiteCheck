@@ -2,7 +2,7 @@
 
 **Dataset Citation Status Verification Tool**
 
-A comprehensive toolkit for verifying the accessibility and citation status of scientific datasets across multiple biological and scientific repositories. SciCiteCheck helps researchers and data scientists validate dataset citations in scientific publications by checking their public availability and extracting metadata from various data repositories.
+A comprehensive toolkit for verifying the accessibility and citation status of scientific datasets across multiple biological and scientific repositories. DataRefInspector helps researchers and data scientists validate dataset citations in scientific publications by checking their public availability and extracting metadata from various data repositories.
 
 ## 🎯 Overview
 
