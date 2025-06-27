@@ -1,4 +1,4 @@
-# SciCiteCheck
+# DataRefInspector
 
 **Dataset Citation Status Verification Tool**
 
@@ -6,7 +6,7 @@ A comprehensive toolkit for verifying the accessibility and citation status of s
 
 ## 🎯 Overview
 
-SciCiteCheck addresses the critical need for verifying dataset citations in scientific literature. It provides automated tools to check whether cited datasets are publicly accessible, retrieve file information, and validate repository links across major scientific databases.
+DataRefInspector addresses the critical need for verifying dataset citations in scientific literature. It provides automated tools to check whether cited datasets are publicly accessible, retrieve file information, and validate repository links across major scientific databases.
 
 ### Key Features
 
